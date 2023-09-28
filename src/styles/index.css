@@ -1,3 +1,19 @@
+div {
+    background-color: black;
+    
+    font-size: 75px;
+    justify-content: center;
+    margin: 15px;
+    display: flex;
+    border: 1px .5px 1px .5px solid gray;
+   
+    padding: 0px 50px 0px 50px;
+    color: white;
+    
+  
+}
+
+.far{ margin-top: 38px;}
 
 /* 
 
